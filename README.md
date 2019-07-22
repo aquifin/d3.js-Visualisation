@@ -1,5 +1,7 @@
 ## GapMinder World visualisation using d3.js.
 
+Hosted on: https://aquifin.github.io/
+
 In this visualization, GDP vs Global Competitive Index is plotted in bubble chart and size of the bubbles are represented by Population field of a country (countries are grouped by the “Forum classification” field in the data), this whole idea is represented year-wise via animation and can be seen by selecting a particular year using year dropdown control.
 
 Functionalities:
